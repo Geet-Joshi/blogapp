@@ -11,6 +11,7 @@ django = "==2.2"
 django-crispy-forms = "*"
 pillow = "*"
 gunicorn = "*"
+whitenoise = "==3.3.1"
 
 [requires]
 python_version = "3.8"
